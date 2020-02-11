@@ -1,0 +1,27 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "BlockChain v.1",
+  "main": "app.js",
+  "dependencies": {
+    "crypto-js": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBioZ/BlockChain.git"
+  },
+  "keywords": [
+    "BlockChain",
+    "RBioZ"
+  ],
+  "author": "Jonatha Rihan da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RBioZ/BlockChain/issues"
+  },
+  "homepage": "https://github.com/RBioZ/BlockChain#readme"
+}
