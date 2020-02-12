@@ -4,7 +4,8 @@
   "description": "BlockChain v.1",
   "main": "app.js",
   "dependencies": {
-    "crypto-js": "^3.2.0"
+    "crypto-js": "^3.2.0",
+    "elliptic": "^6.5.2"
   },
   "devDependencies": {},
   "scripts": {
